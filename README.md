@@ -8,6 +8,6 @@
 
 
 
-caculator Sedehana dengan menggunakan HTML CSS Dan JavaScript
+caculator Sederhana dengan menggunakan HTML, CSS, Dan JavaScript.
 
 
